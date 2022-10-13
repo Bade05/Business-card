@@ -1,0 +1,60 @@
+.card {
+
+  width: 400px;
+  margin: auto;
+  /**margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;**/
+  color: rgb(140, 127, 255);
+  background-color: rgba(0, 255, 255, 0.288);
+  border: 1px solid blue;
+  border-bottom: 5px solid darkslateblue;
+  border-radius: 9px;
+  padding: 10px 21px 10px 21px;
+  /**padding-left: 21px;
+  padding-top: 10px;
+  padding-right: 21px;
+  padding-bottom: 5px;**/
+  display: flex;
+  justify-content: space-around;
+}
+
+body {
+  margin: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+}
+
+.avatar {
+  width: 130px;
+  height: 150px;
+  padding: auto;
+  margin: auto;
+  border: 5px solid skyblue;
+  border-radius: 10px;
+
+  /*
+  padding-left: 21px;
+  padding-top: 10px;
+  padding-right: 21px;
+  padding-bottom: 5px;
+  border-radius: 9px; */
+}
+
+
+.align {
+  text-align: center;
+}
+
+/**
+.red-circle  {
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  background-color: red;
+  /*margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;*/
+/*margin: 40px auto;*/
